@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+deployment link : https://blog-content-ruddy.vercel.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
